@@ -1,4 +1,5 @@
 data/
+*.nfs*
 */.ipynb_checkpoints/
 *.swp
 *pycache*
